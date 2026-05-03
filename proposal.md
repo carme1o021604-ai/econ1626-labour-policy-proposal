@@ -17,7 +17,13 @@ AI also affects work through algorithmic management. Employers may use AI system
 
 ## Analysis of Impacts
 
-[Analyse the impacts of AI on employment, tasks, wages, industry structure and equity.]
+The employment impact of AI is likely to be uneven. AI may reduce demand for some routine information-processing tasks, but it may also create new demand for workers who can use AI tools effectively. The key issue is therefore task transformation rather than simple job replacement. For example, administrative workers may spend less time drafting emails and processing records, while analysts may spend more time checking, interpreting and applying AI-generated outputs.
+
+The wage effects are also likely to be unequal. Workers with strong digital skills may become more productive and receive higher wages, while workers without access to AI training may experience weaker career progression and lower bargaining power. This creates a risk of skill-biased inequality, where the benefits of AI are concentrated among already advantaged workers.
+
+Industry impacts will vary. Office-based and text-heavy sectors such as administration, finance, legal services, marketing, education and professional services are likely to experience stronger task disruption. Manual and place-based sectors such as construction, cleaning, hospitality and care work may be less directly exposed to generative AI, although they may still be affected by scheduling, monitoring and management systems.
+
+There is also a distributional concern. Young workers, migrant workers, women in clerical roles, lower-income workers and workers in insecure employment may be more vulnerable if they have less access to training or weaker voice in workplace technology decisions.
 
 ## Policy Options
 
