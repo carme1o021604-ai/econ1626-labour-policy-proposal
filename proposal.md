@@ -55,7 +55,16 @@ This option improves transparency and worker protection. It can reduce harmful u
 
 ## Recommended Package and Implementation Plan
 
-[Recommend a policy package. Include timeline, responsibilities, costs and KPIs.]
+The recommended approach is a combined policy package. The Department of Employment and Workplace Relations should introduce the AI skills voucher as a broad adaptation measure, develop targeted transition support for workers in highly exposed occupations, and gradually introduce workplace AI impact assessments for large employers.
+
+This package balances productivity, equity and feasibility. The voucher supports broad workforce readiness, transition support protects vulnerable workers, and impact assessments improve accountability in workplace AI adoption. A staged approach is preferable because it allows government to test programme design before national expansion.
+
+| Timeline | Action | Responsible Body | KPI |
+|---|---|---|---|
+| 0–6 months | Design AI skills voucher and approve training providers | Department of Employment and Workplace Relations | Programme launched and provider list approved |
+| 6–12 months | Pilot vouchers in AI-exposed sectors | DEWR, Jobs and Skills Australia, TAFEs | 50,000 workers enrolled |
+| 12–24 months | Expand transition support for at-risk workers | DEWR and state employment agencies | Course completion, re-employment and wage outcomes |
+| 24–36 months | Introduce AI impact assessments for large firms | DEWR and Fair Work Ombudsman | Employer compliance rate and worker consultation reports |
 
 ## Risks and Mitigations
 
