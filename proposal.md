@@ -49,9 +49,9 @@ This option improves transparency and worker protection. It can reduce harmful u
 
 | Policy Option | Effectiveness | Equity | Feasibility | Cost | Overall Assessment |
 |---|---|---|---|---|---|
-| Option 1: National AI Skills Voucher | High | Medium | High | Medium | Strong broad adaptation policy |
-| Option 2: Targeted AI Transition Support | High | High | Medium | High | Best for vulnerable workers |
-| Option 3: AI Impact Assessment Requirement | Medium | High | Medium | Low-Medium | Important for transparency and worker protection |
+| National AI Skills Voucher | High | Medium | High | Medium | Strong option for broad workforce adaptation |
+| Targeted AI Transition Support | High | High | Medium | High | Best option for vulnerable workers |
+| Workplace AI Impact Assessment | Medium | High | Medium | Low-Medium | Important for transparency and worker protection |
 
 ## Recommended Package and Implementation Plan
 
