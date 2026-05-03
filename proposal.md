@@ -68,7 +68,9 @@ This package balances productivity, equity and feasibility. The voucher supports
 
 ## Risks and Mitigations
 
-[Explain the main risks and how they can be reduced.]
+A key risk is that training vouchers may fund low-quality courses. This can be mitigated by approving providers, auditing course outcomes and linking funding to completion rates and employment outcomes. A second risk is that employers may treat AI impact assessments as a box-ticking exercise. This can be reduced by requiring worker consultation, clear reporting and review by the Fair Work Ombudsman.
+
+A third risk is fiscal cost. The package should therefore begin with a targeted pilot before national expansion. A fourth risk is that small firms may struggle with compliance. For this reason, workplace AI impact assessments should initially apply only to large employers, with simplified guidance offered to smaller businesses.
 
 ## References
 
