@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-[Write 120–150 words summarising the problem, options and recommendation.]
+Artificial intelligence is changing the labour market by automating routine cognitive tasks, augmenting professional work, reshaping skill demand and enabling new forms of workplace management. The main policy problem is not only job loss, but unequal exposure to task change, wage inequality and limited access to AI-related training. This brief recommends a three-part policy package for the Department of Employment and Workplace Relations: a national AI skills voucher, targeted transition support for at-risk workers, and phased workplace AI impact assessments for large employers. Together, these measures would help Australia capture productivity gains from AI while reducing displacement risk, protecting vulnerable workers and improving transparency in workplace AI adoption.
 
 ## Problem Definition and Context
 
