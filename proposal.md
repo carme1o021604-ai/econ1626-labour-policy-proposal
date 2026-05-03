@@ -29,15 +29,21 @@ There is also a distributional concern. Young workers, migrant workers, women in
 
 ### Option 1: National AI Skills Voucher
 
-[Explain this policy option.]
+The first option is a national AI skills voucher for workers in AI-exposed occupations. Eligible workers could receive a training voucher of around AUD 1,000 to AUD 1,500 to complete approved short courses in AI literacy, data privacy, prompt use, AI-assisted productivity tools and occupation-specific AI applications. Courses could be delivered through TAFEs, universities and accredited online providers.
+
+This option is effective because it supports broad workforce adaptation before displacement occurs. It is also feasible because it builds on existing training infrastructure. However, its equity impact depends on whether low-income and time-poor workers can access training.
 
 ### Option 2: Targeted AI Transition Support for At-Risk Workers
 
-[Explain this policy option.]
+The second option is targeted transition support for workers in highly exposed roles, such as administrative assistants, clerical workers, customer service workers and junior analysts. Support could include career counselling, retraining grants, job-matching services, wage insurance and employer subsidies for redeployment.
+
+This option has strong equity benefits because it focuses public resources on workers most likely to experience disruption. It also reduces the risk that AI adoption leads to long-term unemployment. However, it is more expensive and requires accurate identification of at-risk workers.
 
 ### Option 3: Workplace AI Impact Assessment Requirement
 
-[Explain this policy option.]
+The third option is to require large employers to complete workplace AI impact assessments before deploying major AI systems. These assessments should examine how AI will affect tasks, employment levels, wages, monitoring, privacy, bias and worker consultation. Employers should also explain what retraining or redeployment support will be provided.
+
+This option improves transparency and worker protection. It can reduce harmful uses of AI in recruitment, performance management and workplace surveillance. However, it may create compliance costs for firms, so it should initially apply only to large employers.
 
 ## Options-by-Criteria Matrix
 
