@@ -11,7 +11,9 @@
 
 ## Problem Definition and Context
 
-[Explain what is changing and why. Focus on the channels through which AI is changing work.]
+AI is changing work through several channels. First, it can automate routine cognitive tasks such as drafting basic text, processing documents, summarising information, coding simple outputs and answering customer queries. Second, AI can augment workers by helping them complete tasks more quickly and accurately, especially in professional services, education, administration, finance, marketing and creative industries. Third, AI changes the design of jobs. Many occupations may not disappear, but the mix of tasks within those occupations will change.
+
+AI also affects work through algorithmic management. Employers may use AI systems to screen job applicants, allocate shifts, monitor productivity, evaluate performance or make decisions about promotion and dismissal. These changes create opportunities for higher productivity, but they also create risks for workers who lack AI skills, have limited bargaining power or work in highly exposed occupations. The policy challenge is therefore to support adaptation before displacement becomes more costly.
 
 ## Analysis of Impacts
 
