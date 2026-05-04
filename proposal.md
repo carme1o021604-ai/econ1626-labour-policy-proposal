@@ -7,7 +7,7 @@
 
 ## Executive Summary
 
-Artificial intelligence, especially generative AI, is changing the Australian labour market by automating routine cognitive tasks, augmenting professional work, reshaping skill demand and enabling new forms of workplace management. The central policy problem is not simply job loss, but uneven exposure to task change, unequal access to AI-related skills and the risk that productivity gains are captured mainly by firms and high-skilled workers. Evidence suggests that generative AI is more likely to transform tasks within occupations than replace whole jobs (Gmyrek, Berg and Bescond 2023). This brief recommends a three-part policy package for the Department of Employment and Workplace Relations: a national AI skills voucher, targeted transition support for at-risk workers, and phased workplace AI impact assessments for large employers. Together, these measures would help Australia capture AI-related productivity gains while reducing displacement risk, protecting vulnerable workers and improving accountability in workplace AI adoption.
+Artificial intelligence, especially generative AI, is changing the Australian labour market by automating routine cognitive tasks, augmenting professional work, reshaping skill demand and enabling new forms of workplace management. The central policy problem is not simply job loss, but uneven exposure to task change, unequal access to AI-related skills and the risk that productivity gains are captured mainly by firms and high-skilled workers. Evidence suggests that generative AI is more likely to transform tasks within occupations than replace whole jobs (Gmyrek, Berg and Bescond 2023). This brief recommends a three-part policy package for the Department of Employment and Workplace Relations: a national AI skills voucher, targeted transition support for at-risk workers, and phased workplace AI impact assessments for large employers. Together, these measures would support productivity gains while reducing displacement risk and improving accountability.
 
 ## Problem Definition and Context
 
@@ -43,9 +43,9 @@ This option has strong equity benefits because it focuses resources on workers m
 
 ### Option 3: Workplace AI Impact Assessment Requirement
 
-The third option is to require large employers to complete workplace AI impact assessments before deploying major AI systems. These assessments should examine effects on tasks, employment, wages, monitoring, privacy, bias and worker consultation. Employers should also explain what retraining or redeployment support will be provided.
+The third option is to require large employers to complete workplace AI impact assessments before deploying major AI systems. These assessments should examine effects on tasks, employment, wages, monitoring, privacy, bias and worker consultation.
 
-This option improves transparency and worker protection, especially in recruitment, performance management and workplace surveillance. It also gives government better information about AI adoption across sectors. However, it may create compliance costs, so it should initially apply only to large employers and high-risk AI uses.
+This option improves transparency and worker protection, especially in recruitment, performance management and workplace surveillance. However, it may create compliance costs, so it should initially apply only to large employers and high-risk AI uses.
 
 ## Options-by-Criteria Matrix
 
