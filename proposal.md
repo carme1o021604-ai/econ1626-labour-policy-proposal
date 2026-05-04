@@ -3,7 +3,7 @@
 **To:** Deputy Secretary, Employment and Skills, Australian Government Department of Employment and Workplace Relations  
 **From:** [Shiwei Li]  
 **Date:** [10/05/2026]  
-**Word Count:** Approximately 1,200 words  
+**Word Count:** Approximately 1319 words  
 
 ## Executive Summary
 
