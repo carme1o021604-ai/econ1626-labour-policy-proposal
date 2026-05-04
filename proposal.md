@@ -25,7 +25,7 @@ The wage effects are also likely to be unequal. Workers with strong digital and 
 
 Industry impacts will vary. Office-based and text-heavy sectors such as administration, finance, legal services, marketing, education and professional services are likely to experience stronger task disruption, while manual and place-based sectors may be less directly exposed but still affected by scheduling and monitoring systems.
 
-There is also a distributional concern. Young workers, women in clerical roles, migrant workers, lower-income workers and insecure workers may be more vulnerable if they have less access to training or weaker voice in workplace technology decisions. Jobs and Skills Australia also highlights disproportionate risks for women, older workers, First Nations Australians and people with disability because of occupational concentration and digital access gaps (Jobs and Skills Australia 2025). AI policy must therefore shape who benefits from productivity growth.
+There is also a distributional concern. Young workers, women in clerical roles, migrant workers, lower-income workers and insecure workers may be more vulnerable if they have less access to training or weaker voice in workplace technology decisions (chen, 2025). Jobs and Skills Australia also highlights disproportionate risks for women, older workers, First Nations Australians and people with disability because of occupational concentration and digital access gaps (Jobs and Skills Australia 2025). 
 
 ## Policy Option
 
@@ -59,7 +59,7 @@ The matrix shows why a package is needed: the skills voucher is broad, transitio
 
 ## Recommended Package and Implementation Plan
 
-The recommended approach is a combined policy package. The Department of Employment and Workplace Relations should introduce the AI skills voucher, targeted transition support and phased workplace AI impact assessments for large employers. This package balances productivity, equity and feasibility by supporting broad adaptation, protecting vulnerable workers and improving accountability in workplace AI adoption.
+The recommended approach is a combined policy package. The Department of Employment and Workplace Relations should introduce the AI skills voucher, targeted transition support and phased workplace AI impact assessments for large employers. This package balances productivity, equity and feasibility.
 
 | Timeline | Action | Responsible Body | KPI |
 |---|---|---|---|
@@ -72,8 +72,26 @@ A staged approach allows government to test programme design before national exp
 
 ## Risks and Mitigations
 
-A key risk is that vouchers may fund low-quality courses or fail to match workplace needs. This can be mitigated by approving providers, auditing outcomes and linking funding to completion and employment results. A second risk is that employers treat AI impact assessments as a box-ticking exercise; this can be reduced through worker consultation, clear reporting and Fair Work Ombudsman review. A third risk is fiscal cost, so the package should begin as a targeted pilot before national expansion. Finally, impact assessments should initially apply only to large employers, with simplified guidance for smaller businesses to reduce compliance pressure while still addressing high-risk AI uses in recruitment, monitoring and performance management.
+A key risk is that vouchers may fund low-quality courses or fail to match workplace needs. This can be mitigated by approving providers, auditing outcomes and linking funding to completion and employment results. A second risk is that employers treat AI impact assessments as a box-ticking exercise; this can be reduced through worker consultation, clear reporting and Fair Work Ombudsman review. A third risk is fiscal cost, so the package should begin as a targeted pilot before national expansion. Finally, impact assessments should initially apply only to large employers, with simplified guidance for smaller businesses.
 
 ## References
 
-[Add RMIT Harvard style references here.]
+## References
+
+1. Gmyrek, P, Berg, J and Bescond, D 2023, *Generative AI and jobs: A global analysis of potential effects on job quantity and quality*, International Labour Organization, viewed 3 May 2026, <https://www.ilo.org/publications/generative-ai-and-jobs-global-analysis-potential-effects-job-quantity-and-quality>.
+
+2. Gmyrek, P, Berg, J and Bescond, D 2025, *Generative AI and jobs: A refined global index of occupational exposure*, International Labour Organization, viewed 3 May 2026, <https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure>.
+
+3. Jobs and Skills Australia 2025, *Our Gen AI transition: Implications for work and skills*, Australian Government, viewed 3 May 2026, <https://www.jobsandskills.gov.au/publications/generative-ai-capacity-study-report>.
+
+4. Jobs and Skills Australia 2025, *Our Gen AI transition: Final release*, Australian Government, viewed 3 May 2026, <https://www.jobsandskills.gov.au/publications/our-gen-ai-transition-final-release>.
+
+5. Green, A 2024, *Artificial intelligence and the changing demand for skills in the labour market*, OECD Artificial Intelligence Papers, no. 14, OECD Publishing, viewed 3 May 2026, <https://www.oecd.org/en/publications/artificial-intelligence-and-the-changing-demand-for-skills-in-the-labour-market_88684e36-en.html>.
+
+6. Microsoft and LinkedIn 2024, *AI at work is here. Now comes the hard part*, Microsoft WorkLab, viewed 3 May 2026, <https://www.microsoft.com/en-us/worklab/work-trend-index>.
+
+7. Chen, F 2025, *Shaping the future of work: Generative AI, inequality, and opportunity*, Social Finance Institute, viewed 3 May 2026, <https://socialfinance.org/insight/shaping-the-future-of-work-generative-ai-inequality-and-opportunity/>.
+
+8. Fairwork 2023, *The big unknown: Generative AI, jobs and policy response*, Fairwork, viewed 3 May 2026, <https://fair.work/wp-content/uploads/sites/17/2023/10/Policy-Brief-The-big-unknown.pdf>.
+
+9. Lee, YS and Carroll, M 2025, *From disruption to opportunity: Policy pathways to strengthen labor in the age of AI*, University of Notre Dame, viewed 3 May 2026, <https://doi.org/10.7274/30114379.v1>.
