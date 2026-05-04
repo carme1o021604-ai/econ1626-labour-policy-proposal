@@ -13,7 +13,7 @@ Artificial intelligence, especially generative AI, is changing the Australian la
 
 AI is changing work through several economic channels. First, it can automate routine cognitive tasks such as drafting basic text, processing documents, summarising information, coding simple outputs and answering customer queries. Second, it can augment workers by helping them complete tasks more quickly or accurately, especially in professional services, education, administration, finance, marketing and creative industries. Third, AI changes job design. Many occupations may not disappear, but the balance of tasks within them will change, particularly where work involves language, information-processing and routine cognitive tasks (Gmyrek, Berg and Bescond 2023).
 
-For policy purposes, Australia’s Gen AI transition should be understood through exposure, adoption and adaptation. Exposure shows where AI could be applied to current tasks; adoption shows whether firms and workers actually use it; and adaptation shows how workplaces reorganise tasks, skills and production processes over time (Jobs and Skills Australia 2025). This distinction matters because exposure alone does not determine labour market outcomes. The same technology can either replace labour, increase worker productivity, or create new tasks depending on business strategy, worker skills, regulation and demand for higher-quality outputs.
+For policy purposes, Australia’s Gen AI transition should be understood through exposure, adoption and adaptation. Exposure alone does not determine labour market outcomes: the same technology can replace labour, increase worker productivity or create new tasks depending on business strategy, worker skills and regulation (Jobs and Skills Australia 2025).
 
 AI also affects work through algorithmic management. Employers may use AI systems to screen job applicants, allocate shifts, monitor productivity, evaluate performance or make decisions about promotion and dismissal. These uses create new governance challenges around transparency, worker voice and responsible implementation. The policy challenge is therefore to support adaptation early, before displacement, skill mismatch and weak worker bargaining power become more costly.
 
@@ -23,29 +23,29 @@ The employment impact of AI is likely to be uneven. Current evidence suggests th
 
 The wage effects are also likely to be unequal. Workers with strong digital and AI-complementary skills may become more productive and command higher wages. Workers without access to training may experience weaker career progression, lower bargaining power or movement into lower-paid roles. This creates a risk of skill-biased inequality, where the benefits of AI are concentrated among already advantaged workers with stronger digital, analytical and problem-solving capabilities (Green 2024).
 
-Industry impacts will vary. Office-based and text-heavy sectors such as administration, finance, legal services, marketing, education and professional services are likely to experience stronger task disruption because they contain a high share of language-based and information-processing tasks. Manual and place-based sectors such as construction, cleaning, hospitality and care work may be less directly exposed to generative AI, although they may still be affected by scheduling, monitoring and management systems.
+Industry impacts will vary. Office-based and text-heavy sectors such as administration, finance, legal services, marketing, education and professional services are likely to experience stronger task disruption, while manual and place-based sectors may be less directly exposed but still affected by scheduling and monitoring systems.
 
-There is also a distributional concern. Young workers, women in clerical roles, migrant workers, lower-income workers and workers in insecure employment may be more vulnerable if they have less access to training or weaker voice in workplace technology decisions. Jobs and Skills Australia also highlights that women, older workers, First Nations Australians and people with disability may face disproportionate risks because of occupational concentration and digital access gaps (Jobs and Skills Australia 2025). This means AI policy should not only aim to raise productivity; it must also shape who benefits from productivity growth.
+There is also a distributional concern. Young workers, women in clerical roles, migrant workers, lower-income workers and insecure workers may be more vulnerable if they have less access to training or weaker voice in workplace technology decisions. Jobs and Skills Australia also highlights disproportionate risks for women, older workers, First Nations Australians and people with disability because of occupational concentration and digital access gaps (Jobs and Skills Australia 2025). AI policy must therefore shape who benefits from productivity growth.
 
 ## Policy Option
 
 ### Option 1: National AI Skills Voucher
 
-The first option is a national AI skills voucher for workers in AI-exposed occupations. Eligible workers could receive a training voucher of around AUD 1,000 to AUD 1,500 to complete approved short courses in AI literacy, data privacy, prompt use, AI-assisted productivity tools and occupation-specific AI applications. Courses could be delivered through TAFEs, universities and accredited online providers.
+The first option is a national AI skills voucher for workers in AI-exposed occupations. Eligible workers could receive around AUD 1,000 to AUD 1,500 for approved short courses in AI literacy, data privacy, prompt use, AI-assisted productivity tools and occupation-specific AI applications, delivered through TAFEs, universities and accredited online providers.
 
-This option is effective because it supports broad workforce adaptation before displacement occurs. It is also feasible because it builds on existing training infrastructure and can be delivered through short-form, flexible courses. However, its equity impact depends on whether low-income, casual and time-poor workers can access training. Without paid training time or targeted outreach, the workers most in need may be least able to participate. This option is consistent with policy research arguing that workforce development systems must be modernised for the AI era through AI literacy, lifelong learning and skills that complement AI (Lee and Carroll 2025).
+This option supports broad workforce adaptation before displacement occurs and can use existing training infrastructure. However, its equity impact depends on whether low-income, casual and time-poor workers can access training. Without paid training time or targeted outreach, the workers most in need may be least able to participate. This option aligns with policy research calling for AI literacy, lifelong learning and skills that complement AI (Lee and Carroll 2025).
 
 ### Option 2: Targeted AI Transition Support for At-Risk Workers
 
 The second option is targeted transition support for workers in highly exposed roles, such as administrative assistants, clerical workers, customer service workers and junior analysts. Support could include career counselling, retraining grants, job-matching services, wage insurance and employer subsidies for redeployment.
 
-This option has strong equity benefits because it focuses public resources on workers most likely to experience disruption. It also reduces the risk that AI adoption leads to long-term unemployment or downward occupational mobility. However, it is more expensive than a general skills voucher and requires accurate identification of at-risk workers. Targeting should therefore prioritise workers in the “big unknown” category: occupations where the outcome may depend on whether AI is deployed for automation, augmentation or task redesign (Fairwork 2023).
+This option has strong equity benefits because it focuses resources on workers most likely to experience disruption and reduces the risk of long-term unemployment or downward mobility. However, it is more expensive than a general skills voucher and requires accurate identification of at-risk workers. Targeting should prioritise workers in the “big unknown” category, where outcomes depend on whether AI is used for automation, augmentation or task redesign (Fairwork 2023).
 
 ### Option 3: Workplace AI Impact Assessment Requirement
 
-The third option is to require large employers to complete workplace AI impact assessments before deploying major AI systems. These assessments should examine how AI will affect tasks, employment levels, wages, monitoring, privacy, bias and worker consultation. Employers should also explain what retraining or redeployment support will be provided.
+The third option is to require large employers to complete workplace AI impact assessments before deploying major AI systems. These assessments should examine effects on tasks, employment, wages, monitoring, privacy, bias and worker consultation. Employers should also explain what retraining or redeployment support will be provided.
 
-This option improves transparency and worker protection. It can reduce harmful uses of AI in recruitment, performance management and workplace surveillance. It also creates better information for government about how AI is being adopted across sectors. However, it may create compliance costs for firms, so it should initially apply only to large employers and high-risk uses of AI. This phased design balances worker protection with business feasibility.
+This option improves transparency and worker protection, especially in recruitment, performance management and workplace surveillance. It also gives government better information about AI adoption across sectors. However, it may create compliance costs, so it should initially apply only to large employers and high-risk AI uses.
 
 ## Options-by-Criteria Matrix
 
@@ -55,11 +55,11 @@ This option improves transparency and worker protection. It can reduce harmful u
 | Targeted AI Transition Support | High | High | Medium | High | Best option for vulnerable workers, but more costly |
 | Workplace AI Impact Assessment | Medium | High | Medium | Low-Medium | Important for transparency and worker protection |
 
-The matrix shows that no single policy is sufficient. A skills voucher is broad and feasible, but may miss the most vulnerable workers. Targeted transition support is strongest on equity, but has higher fiscal and administrative costs. AI impact assessments are less direct as a labour-market adjustment tool, but they address governance risks that training alone cannot solve.
+The matrix shows why a package is needed: the skills voucher is broad, transition support is more equitable, and impact assessments address governance risks that training alone cannot solve.
 
 ## Recommended Package and Implementation Plan
 
-The recommended approach is a combined policy package. The Department of Employment and Workplace Relations should introduce the AI skills voucher as a broad adaptation measure, develop targeted transition support for workers in highly exposed occupations, and gradually introduce workplace AI impact assessments for large employers. This package balances productivity, equity and feasibility. It supports workers before displacement occurs, protects groups facing higher adjustment costs, and improves accountability in workplace AI adoption.
+The recommended approach is a combined policy package. The Department of Employment and Workplace Relations should introduce the AI skills voucher, targeted transition support and phased workplace AI impact assessments for large employers. This package balances productivity, equity and feasibility by supporting broad adaptation, protecting vulnerable workers and improving accountability in workplace AI adoption.
 
 | Timeline | Action | Responsible Body | KPI |
 |---|---|---|---|
@@ -68,13 +68,11 @@ The recommended approach is a combined policy package. The Department of Employm
 | 12–24 months | Expand transition support for at-risk workers | DEWR and state employment agencies | Course completion, re-employment and wage outcomes |
 | 24–36 months | Introduce AI impact assessments for large firms | DEWR and Fair Work Ombudsman | Employer compliance rate and worker consultation reports |
 
-A staged approach is preferable because it allows government to test programme design before national expansion. It also allows policy settings to adjust as better evidence emerges about AI adoption, occupational exposure and worker outcomes.
+A staged approach allows government to test programme design before national expansion and adjust settings as evidence on AI adoption and worker outcomes develops.
 
 ## Risks and Mitigations
 
-A key risk is that training vouchers may fund low-quality courses or fail to match real workplace needs. This can be mitigated by approving providers, auditing course outcomes and linking funding to completion rates and employment outcomes. A second risk is that employers may treat AI impact assessments as a box-ticking exercise. This can be reduced by requiring worker consultation, clear reporting and review by the Fair Work Ombudsman.
-
-A third risk is fiscal cost. The package should therefore begin with a targeted pilot before national expansion. A fourth risk is that small firms may struggle with compliance. For this reason, workplace AI impact assessments should initially apply only to large employers, with simplified guidance offered to smaller businesses. This phased design reduces compliance pressure while still addressing high-risk settings where AI systems affect recruitment, monitoring and performance management.
+A key risk is that vouchers may fund low-quality courses or fail to match workplace needs. This can be mitigated by approving providers, auditing outcomes and linking funding to completion and employment results. A second risk is that employers treat AI impact assessments as a box-ticking exercise; this can be reduced through worker consultation, clear reporting and Fair Work Ombudsman review. A third risk is fiscal cost, so the package should begin as a targeted pilot before national expansion. Finally, impact assessments should initially apply only to large employers, with simplified guidance for smaller businesses to reduce compliance pressure while still addressing high-risk AI uses in recruitment, monitoring and performance management.
 
 ## References
 
