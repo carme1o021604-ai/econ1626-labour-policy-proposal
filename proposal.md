@@ -15,7 +15,7 @@ AI is changing work through several economic channels. First, it can automate ro
 
 For policy purposes, Australia’s Gen AI transition should be understood through exposure, adoption and adaptation. Exposure alone does not determine labour market outcomes: the same technology can replace labour, increase worker productivity or create new tasks depending on business strategy, worker skills and regulation (Jobs and Skills Australia 2025).
 
-AI also affects work through algorithmic management. Employers may use AI systems to screen job applicants, allocate shifts, monitor productivity, evaluate performance or make decisions about promotion and dismissal. These uses create new governance challenges around transparency, worker voice and responsible implementation. The policy challenge is therefore to support adaptation early, before displacement, skill mismatch and weak worker bargaining power become more costly.
+AI also affects work through algorithmic management. Employers may use AI systems to screen job applicants, allocate shifts, monitor productivity, evaluate performance or make decisions about promotion and dismissal. These uses create governance challenges around transparency and worker voice. The policy challenge is therefore to support adaptation early, before displacement, skill mismatch and weak worker bargaining power become more costly.
 
 ## Analysis of Impacts
 
@@ -55,7 +55,7 @@ This option improves transparency and worker protection, especially where AI is 
 | Targeted AI Transition Support | High | High | Medium | High | Best option for vulnerable workers, but more costly |
 | Workplace AI Impact Assessment | Medium | High | Medium | Low-Medium | Important for transparency and worker protection |
 
-The matrix shows why a package is needed: the skills voucher is broad, transition support is more equitable, and impact assessments address governance risks that training alone cannot solve.
+The matrix shows why a package is needed: vouchers support broad adaptation, transition support improves equity, and impact assessments address governance risks.
 
 ## Recommended Package and Implementation Plan
 
